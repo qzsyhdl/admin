@@ -1,0 +1,1 @@
+import mockAdapter from './mockAdapter'
